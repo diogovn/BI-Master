@@ -25,15 +25,15 @@ Os sinais medidos foram utilizados no treinamento de redes neurais, que classifi
 A análise de vibração é uma técnica comumente usada para monitorar a condição de equipamentos rotativos. Para realizar as medições dos sinais de vibração, os equipamentos podem possuir sensores instalados, permitindo o monitoramento contínuo, ou podem ser utilizados sensores portáteis que necessitam de mão-de-obra humana para sua operação, neste caso o monitoramento é feito de forma periódica. Neste trabalho, as medições foram coletadas através de sensores portáteis, em períodos que geralmente variam em torno de 1 e 6 meses.
 
 As medições podem ser coletadas em diversas posições (pontos de medição) do equipamento. Aqui foram consideradas as medições radiais tomadas no eixos horizontal e vertical de 4 posições, desta forma, os 8 pontos de medição considerados foram:
-![Pontos de medição de vibração no conjunto moto-bomba. À esquerda, o motor, e à direita, a bomba.](https://github.com/diogovn/BI-Master/blob/main/pontos_medicao.png)
-1H) Mancal lado não acoplado do motor - horizontal
-1V) Mancal lado não acoplado do motor - vertical
-2H) Mancal lado  acoplado do motor - horizontal
-2V) Mancal lado  acoplado do motor - vertical
-3H) Mancal lado acoplado da bomba - horizontal
-3V) Mancal lado acoplado da bomba - vertical
-4H) Mancal lado não acoplado da bomba - horizontal
-4V) Mancal lado não acoplado da bomba - vertical
+</p>![Pontos de medição de vibração no conjunto moto-bomba. À esquerda, o motor, e à direita, a bomba.](https://github.com/diogovn/BI-Master/blob/main/pontos_medicao.png)
+</p>1H) Mancal lado não acoplado do motor - horizontal
+</p>1V) Mancal lado não acoplado do motor - vertical
+</p>2H) Mancal lado  acoplado do motor - horizontal
+</p>2V) Mancal lado  acoplado do motor - vertical
+</p>3H) Mancal lado acoplado da bomba - horizontal
+</p>3V) Mancal lado acoplado da bomba - vertical
+</p>4H) Mancal lado não acoplado da bomba - horizontal
+</p>4V) Mancal lado não acoplado da bomba - vertical
 
 Os sinais de vibração são coletados num breve período de tempo e então são passados para o domínio da freqüência, através da tranformada de Fourier. Neste trabalho não foram utilizados os sinais no domínio do tempo, apenas no domínio da freqüência ("spectro" de freqüência). Os sinais também podem ser do tipo envelope, velocidade ou aceleração. Aqui foram considerados sinais de envelope (sinais de 801 amostras) e de aceleração (sinais de 401 amostras).
 
