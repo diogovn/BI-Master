@@ -24,7 +24,7 @@ Os sinais medidos foram utilizados no treinamento de redes neurais, que classifi
 
 A análise de vibração é uma técnica comumente usada para monitorar a condição de equipamentos rotativos. Para realizar as medições dos sinais de vibração, os equipamentos podem possuir sensores instalados, permitindo o monitoramento contínuo, ou podem ser utilizados sensores portáteis que necessitam de mão-de-obra humana para sua operação, neste caso o monitoramento é feito de forma periódica. Neste trabalho, as medições foram coletadas através de sensores portáteis, em períodos que geralmente variam em torno de 1 e 6 meses.
 
-As medições podem ser coletadas em diversas posições (pontos de medição) do equipamento. Aqui foram consideradas as medições radiais tomadas no eixos horizontal e vertical de 4 posições, desta forma, os 8 pontos de medição considerados foram:\
+As medições podem ser coletadas em diversas posições (pontos de medição) do equipamento. Aqui foram consideradas as medições radiais tomadas no eixos horizontal e vertical de 4 posições, desta forma, os 8 pontos de medição considerados foram:
 
 ![Pontos de medição de vibração](https://github.com/diogovn/BI-Master/blob/main/pontos_medicao.png)\
 *Pontos de medição de vibração no conjunto moto-bomba. À esquerda, o motor, e à direita, a bomba.*
