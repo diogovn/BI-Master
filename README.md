@@ -7,10 +7,11 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [ProjetoVibracaoBI.ipynb](arquivo principal - treinamento dos modelos).
+- [ProjetoVibracaoBI.ipynb]()
 
-- [Leitura.py](auxiliar - letura dos dados).
-
+- [Leitura.py]()
+(arquivo principal - treinamento dos modelos).
+(auxiliar - letura dos dados).
 ---
 
 ### Resumo
