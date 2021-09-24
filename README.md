@@ -28,6 +28,7 @@ As medições podem ser coletadas em diversas posições (pontos de medição) d
 
 ![Pontos de medição de vibração](https://github.com/diogovn/BI-Master/blob/main/pontos_medicao.png)
 *Pontos de medição de vibração no conjunto moto-bomba. À esquerda, o motor, e à direita, a bomba.*
+
 1H) Mancal lado não acoplado do motor - horizontal\
 1V) Mancal lado não acoplado do motor - vertical\
 2H) Mancal lado  acoplado do motor - horizontal\
