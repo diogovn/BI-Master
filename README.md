@@ -34,7 +34,7 @@ As medições podem ser coletadas em diversas posições (pontos de medição) d
 </p>3H) Mancal lado acoplado da bomba - horizontal
 </p>3V) Mancal lado acoplado da bomba - vertical
 </p>4H) Mancal lado não acoplado da bomba - horizontal
-</p>4V) Mancal lado não acoplado da bomba - vertical
+</p>4V) Mancal lado não acoplado da bomba - vertical</p>
 
 Os sinais de vibração são coletados num breve período de tempo e então são passados para o domínio da freqüência, através da tranformada de Fourier. Neste trabalho não foram utilizados os sinais no domínio do tempo, apenas no domínio da freqüência ("spectro" de freqüência). Os sinais também podem ser do tipo envelope, velocidade ou aceleração. Aqui foram considerados sinais de envelope (sinais de 801 amostras) e de aceleração (sinais de 401 amostras).
 
